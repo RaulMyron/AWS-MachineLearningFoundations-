@@ -1,2 +1,4 @@
 *.dat
 *.arff
+*.ipynb_checkpoints/
+*.vscode/
